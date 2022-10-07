@@ -1,0 +1,35 @@
+/* 
+ol {
+    list-style: upper-latin;
+    color: blue;
+}
+
+li {
+    list-style: upper roman;
+    color: green;
+
+
+}
+.second {
+    color: rgb(13, 13, 199);
+}
+#first {
+    color: aqua;
+}
+ul {
+    list-style: square;
+    color: green;
+}
+ */
+ ul li{
+    color: crimson;
+ }
+ /* di */
+ ul >li {
+    color: chocolate;
+ }
+ ul li ol li{
+    color: darkmagenta;
+ }
+
+ 
