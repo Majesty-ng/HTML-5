@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    min-height: 100vh;
+    background-color: #eee;
+
+}
+
+.card{
+    padding: .5rem;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+
+    width: 500px;
+    margin:  0 auto;
+}
+
+.image{
+    width: 100%;
+}
