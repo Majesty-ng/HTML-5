@@ -55,3 +55,4 @@ console.log(typeof istrue)
 console.log("BOOLEAN => "+ typeof istrue)
 let undef = undefined
 console.log("UDEFINED => "+typeof undef)
+//type of returns type of value a variable holds
